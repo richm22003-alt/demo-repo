@@ -1,3 +1,4 @@
 # demo-repo
 This is my first Git Repository
-Author:Richa Mishra<br>
+<br>
+Author:Richa Mishra
